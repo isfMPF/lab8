@@ -1,5 +1,5 @@
 include "std.h"
-
+//программа является учебной
 int main(){
 	int a,b;
 	Printf ("Enter a, b\n");
